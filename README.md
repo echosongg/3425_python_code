@@ -1,6 +1,6 @@
 # 3425_python_code
 This is used for assignment assement
-# 3425_code.ipynb
+## 3425_code.ipynb
 every part in 3425_code.ipynb have code comment to indicate which part of the question this is.
 Some of my code is formed by chatgpt.
 # 3425_data.csv
